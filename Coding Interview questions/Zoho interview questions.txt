@@ -1,0 +1,6 @@
+Input:aaaabbbcc
+Output:a4b3c2
+Input:aaaabbbccbbbaaaa
+Output:a4b3c2b3a4
+Input:aaaabbbccbbbaaaa
+Output:a8b6c2
